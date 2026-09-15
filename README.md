@@ -49,7 +49,6 @@
 <td valign="middle"><strong>Frontend</strong></td>
 <td valign="middle">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=D04A37" />
 </td>
 </tr>
