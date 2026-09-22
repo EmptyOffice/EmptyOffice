@@ -8,7 +8,7 @@
 
 **Looking to collaborate on:** bigger projects where a team could use an extra hand on front end or back end.
 
-**Currently learning:** SQL and data analysis through my Data Science courses, plus web development and software engineering.
+**Currently learning:** SQL and data analysis through my Data Science courses, plus web development and system principals.
 
 **Ask me about:** mobile development. I work on ROOM8 in most of my free time and I'm still picking up new things from it every week.
 
