@@ -15,6 +15,7 @@
 **Fun fact:** I play pickleball, I have two cats (Casper & Missy), and I'm pretty good at building and fixing computer hardware.
 
 <i>*note: a bulk of my commits, prs, and issues are currently on private repo(s) (ROOM8)</i>
+
 <i>**also: feel free to contact me for access to our TestFlight launch of ROOM8 (<strong>Out as of 09.22.26</strong>)</i>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edelson-garcia/)
