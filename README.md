@@ -1,4 +1,4 @@
-<p align="center">Informatics major · CS minor · Data Science track · UMass Amherst · Class of 2027</p>
+<p align="center">Informatics major · Data Science track · UMass Amherst · Class of 2027</p>
 
 <table>
 <tr>
