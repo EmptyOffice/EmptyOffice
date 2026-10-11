@@ -90,5 +90,5 @@
 <br>
 
 <p align="center">
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=EmptyOffice&icon=0&color=0e75b6" /></a>
+<img src="https://komarev.com/ghpvc/?username=EmptyOffice&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
