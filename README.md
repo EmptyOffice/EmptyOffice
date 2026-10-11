@@ -12,7 +12,7 @@
 
 **Ask me about:** mobile development. I work on ROOM8 in most of my free time and I'm still picking up new things from it every week.
 
-**Fun fact:** I play pickleball, I have two cats (Casper & Missy), and I'm pretty good at building and fixing computer hardware.
+**Fun fact:** I play pickleball, I have two cats, and I'm pretty good at building and fixing computer hardware.
 
 <i>*note: a bulk of my commits, prs, and issues are currently on private repo(s) (ROOM8)</i>
 
