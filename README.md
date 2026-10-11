@@ -90,5 +90,5 @@
 <br>
 
 <p align="center">
-<img src="https://hits.sh/github.com/EmptyOffice.svg?style=flat-square&label=Profile%20views&color=0e75b6" alt="Profile views" />
+<img src="https://hits.sh/github.com/EmptyOffice.svg?style=flat-square&label=Profile%20views&color=f4c2c2" alt="Profile views" />
 </p>
